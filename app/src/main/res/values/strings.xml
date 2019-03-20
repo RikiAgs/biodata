@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">biodata</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="blora">Asal usul nama Blora
+        Menurut cerita rakyat Blora berasal dari kata BELOR yang berarti lumpur, kemudian berkembang menjadi mbeloran yang akhirnya sampai sekarang lebih dikenal dengan nama BLORA.
+
+        Secara etimologi Blora berasal dari kata WAI + LORAH. Wai berarti air, dan Lorah berarti jurang atau tanah rendah.
+
+        Dalam bahasa Jawa sering terjadi pergantian atau pertukaran huruf W dengan huruf B, tanpa menyebabkan perubahan arti kata. Sehingga seiring dengan perkembangan zaman kata WAILORAH menjadi BAILORAH, dari BAILORAH menjadi Balora dan kata Balora akhirnya menjadi Blora.
+
+        Jadi nama Blora berarti tanah rendah berair, ini dekat sekali dengan pengertian tanah berlumpur.</string>
+</resources>
